@@ -1,0 +1,44 @@
+1. Account: FIN-ACC-1001
+Account holder: Jordan A. McKenzie
+Bank: MockTrust Bank (test)
+Routing number: RT-000000001 (TEST)
+Account number: ACCT-TEST-1001
+Recent balance: $8,742.50 (USD)
+Last transaction: 2025-10-30 — ACH DEBIT — Rent Payment — $1,850.00
+
+2. Account: FIN-ACC-1002
+Account holder: Avery S. Kim
+Bank: DemoFirst Financial (test)
+Routing number: RT-000000002 (TEST)
+Account number: ACCT-TEST-1002
+Recent balance: $14,210.00 (USD)
+Last transaction: 2025-11-01 — Wire Credit — Payroll — $3,200.00
+
+3. Account: FIN-ACC-3003
+Account holder: Maya L. Lopez
+Bank: DemoCommunity Bank (test)
+Routing number (test): RT-000000003 (TEST)
+Account number (masked/test): ACCT-TEST-3003
+Account type: Checking
+Recent balance: $2,345.75 (USD)
+Overdraft protection: Enabled (linked to ACCT-TEST-3005 — savings)
+Last transaction: 2025-11-02 — DEBIT CARD — GroceryMart — $86.42
+
+4. Account: FIN-ACC-4004
+Account holder: Kynnade Brown
+Bank: UrbanTest Savings (test)
+Routing number (test): RT-000000004 (TEST)
+Account number (masked/test): ACCT-TEST-4004
+Account type: Joint Checking (with SF-E1009)
+Recent balance: $24,805.90 (USD)
+Last transaction: 2025-11-05 — WIRE IN — Freelancer payout — $3,250.00
+
+5. Account: FIN-ACC-5005
+Account holder: Tobi Johnson
+Bank: RegionalTest Bank (test)
+Routing number (test): RT-000000005 (TEST)
+Account number (masked/test): ACCT-TEST-5005
+Account type: Checking & High-Yield Savings (two linked accounts)
+Checking balance: $610.20 (USD)
+High-Yield Savings (HY-SAV-5020) balance: $21,000.00 (USD)
+Last transaction (checking): 2025-11-10 — POS — RideShare — $12.90 — TXN-ID: TXN-TJ-1110-01

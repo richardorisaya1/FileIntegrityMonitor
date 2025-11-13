@@ -1,0 +1,39 @@
+1) Jordan McKenzie
+Username: jordan.mckenzie@sentinelforge.test
+Password: J0rd4n!Access-DEMO
+Role: iam-engineer (lab)
+MFA: Push to test device DEV-PUSH-1001
+Last password change: 2025-10-01
+Status: Active (lab)
+
+2) Avery Kim
+Username: avery.kim@sentinelforge.test
+Password: Av3ry#Iam-DEMO
+Role: soc-analyst (lab)
+MFA: SMS to test number +1-410-555-0123 (TEST)
+Last password change: 2025-09-15
+Status: Active (lab)
+
+3) Maya L. Lopez
+Username: maya.lopez@sentinelforge.test
+Password: Maya@Access-DEMO2025
+Role: platform-engineer (lab)
+MFA: TOTP (test seed) TOTP-SEED-3003
+Last password change: 2025-10-20
+Status: Active (lab)
+
+4) Kynnade Brown
+Username: kynnade.brown@sentinelforge.test
+Password: Kynnade!Secure-DEMO
+Role: threat-hunter (lab)
+MFA: Push to DEV-PUSH-1004
+Last password change: 2025-11-05
+Status: Active (lab)
+
+5) Tobi Johnson
+Username: tobi.johnson@sentinelforge.test
+Password: Tobi#Login-DEMO2025
+Role: devops (lab)
+MFA: TOTP via test seed TOTP-SEED-5005
+Last password change: 2025-11-03
+Status: Active (lab)

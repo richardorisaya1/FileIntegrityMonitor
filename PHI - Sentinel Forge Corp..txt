@@ -1,0 +1,44 @@
+1. Patient: PHI-001
+Name: Jordan McKenzie (SF-E1001)
+DOB: 1990-04-12
+Medical Record #: MRN-TEST-1001
+Insurance ID: INS-TEST-8801
+Allergies: None reported
+Active diagnoses: Seasonal allergic rhinitis (ICD10: J30.9)
+Recent encounter: 2025-10-20 — Telehealth — reported mild fever; COVID-19 PCR negative.
+
+2. Patient: PHI-002
+Name: Avery Kim (SF-E1002)
+DOB: 1987-09-22
+Medical Record #: MRN-TEST-1002
+Insurance ID: INS-TEST-4402
+Allergies: Penicillin (mild rash)
+Active diagnoses: Hypertension (ICD10: I10) — managed with medication.
+Recent encounter: 2025-09-15 — Primary care — BP controlled.
+
+3. Patient: PHI-002
+Name: Maya L. Lopez (SF-E1003)
+DOB: 1987-09-22
+Medical Record #: MRN-TEST-1003
+Insurance ID: INS-TEST-7262
+Allergies: Penicillin (mild rash)
+Active diagnoses: Hypertension (ICD10: I10) — managed with medication.
+Recent encounter: 2025-09-15 — Primary care — BP controlled.
+
+4. Patient: PHI-004
+Name: Kynnade Brown (SF-E1004)
+DOB: 1987-09-22
+Medical Record #: MRN-TEST-1004
+Insurance ID: INS-TEST-7262
+Allergies: Penicillin (mild rash)
+Active diagnoses: Hypertension (ICD10: I10) — managed with medication.
+Recent encounter: 2025-09-15 — Primary care — BP controlled.
+
+5. Patient: PHI-002
+Name: Tobi Johnson (SF-E1005)
+DOB: 1987-09-22
+Medical Record #: MRN-TEST-1005
+Insurance ID: INS-TEST-3837
+Allergies: Penicillin (mild rash)
+Active diagnoses: Hypertension (ICD10: I10) — managed with medication.
+Recent encounter: 2025-09-15 — Primary care — BP controlled.
